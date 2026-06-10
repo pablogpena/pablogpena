@@ -2,11 +2,11 @@
 
 # Pablo G. Peña
 
-### Computational researcher across AI, evolution, and scientific software
+### Computational biology across AI, evolution, and data-driven research
 
-I build AI and computational tools for evolutionary biology, while working across
-statistical modelling, genomics, simulation, reproducible analysis, and research
-software. I am especially interested in developing methods and code-based
+I am a biologist building AI and computational tools for evolutionary biology,
+while working across statistical modelling, genomics, simulation, reproducible
+analysis, and research software. I am especially interested in developing methods and code-based
 implementations for problems where data and biological questions meet.
 
 <p>
@@ -31,13 +31,14 @@ implementations for problems where data and biological questions meet.
   <tr>
     <td width="50%">
       <strong>AI and deep learning</strong><br>
-      Development of new AI-based methods for phylodynamics and inference within
-      Birth-Death modelling frameworks.
+      Development of AI-based methods for Birth-Death modelling, from
+      macroevolutionary diversification to viral phylodynamics and related
+      evolutionary-epidemiological inference problems.
     </td>
     <td width="50%">
       <strong>Evolutionary biology</strong><br>
-      Work spanning ecological questions, with a stronger focus on diversification
-      dynamics and biogeographic patterns across evolutionary time.
+      Biogeography and diversification dynamics across evolutionary time, integrating
+      heterogeneous information such as ecological, fossil, and phylogenetic data.
     </td>
   </tr>
   <tr>
@@ -96,12 +97,11 @@ implementations for problems where data and biological questions meet.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pablogpena&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=0969DA&text_color=24292F&icon_color=2DA44E&bg_color=ffffff" alt="GitHub stats">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablogpena&layout=compact&hide_border=true&langs_count=8&title_color=0969DA&text_color=24292F&bg_color=ffffff" alt="Most used languages">
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pablogpena&hide_border=true&radius=8&area=true&bg_color=ffffff&color=57606A&line=0969DA&point=2DA44E&area_color=DDF4FF&title_color=24292F&custom_title=Contribution%20Activity" alt="GitHub activity graph">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pablogpena&hide_border=true&radius=12&area=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F78166&area_color=1F6FEB&title_color=58A6FF&custom_title=Contribution%20Activity" alt="GitHub activity graph">
 
 </div>
 
