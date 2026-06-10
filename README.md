@@ -6,8 +6,8 @@
 
 I build AI and computational tools for evolutionary biology, while working across
 statistical modelling, genomics, simulation, reproducible analysis, and research
-software. I am especially interested in problems where data, biological questions,
-and reliable code meet.
+software. I am especially interested in developing methods and code-based
+implementations for problems where data and biological questions meet.
 
 <p>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-0969DA?style=flat-square" alt="AI and machine learning">
@@ -31,25 +31,25 @@ and reliable code meet.
   <tr>
     <td width="50%">
       <strong>AI and deep learning</strong><br>
-      Model classification, parameter estimation, neural workflows, and
-      simulation-based inference.
+      Development of new AI-based methods for phylodynamics and inference within
+      Birth-Death modelling frameworks.
     </td>
     <td width="50%">
       <strong>Evolutionary biology</strong><br>
-      Birth-death processes, diversification scenarios, phylogenetic inference,
-      and biodiversity dynamics.
+      Work spanning ecological questions, with a stronger focus on diversification
+      dynamics and biogeographic patterns across evolutionary time.
     </td>
   </tr>
   <tr>
     <td width="50%">
       <strong>Data and genomics</strong><br>
-      Computational analysis of biological data, genomic variation, notebooks,
-      and reproducible experiments.
+      Computational analysis of biological data, including phylogenomics and
+      phylogenetic reconstruction.
     </td>
     <td width="50%">
       <strong>Research software</strong><br>
-      Practical tooling in Python, R, LaTeX, and web technologies for analysis,
-      automation, and scientific communication.
+      I mainly work in Python and R, while staying flexible across tools,
+      languages, and workflows depending on the project.
     </td>
   </tr>
 </table>
@@ -75,24 +75,19 @@ and reliable code meet.
   <img src="https://img.shields.io/badge/CUDA-000000?style=flat-square&logo=nvidia&logoColor=76B900" alt="CUDA">
 </p>
 
-## Selected Public Work
+## Active Projects
 
 <table>
   <tr>
-    <td width="33%">
-      <strong><a href="https://github.com/pablogpena/deep_birth_death">deep_birth_death</a></strong><br>
-      Deep learning for model classification and parameter estimation in complex
-      diversification scenarios.
+    <td width="50%">
+      <a href="https://github.com/pablogpena/deep_birth_death">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pablogpena&repo=deep_birth_death&theme=default&hide_border=true" alt="deep_birth_death repository">
+      </a>
     </td>
-    <td width="33%">
-      <strong><a href="https://github.com/pablogpena/pablogpena.github.io">pablogpena.github.io</a></strong><br>
-      Personal research site and public-facing portfolio built around scientific
-      communication.
-    </td>
-    <td width="33%">
-      <strong><a href="https://github.com/pablogpena/pablogpena">GitHub profile</a></strong><br>
-      A compact overview of current research interests, tools, and public
-      development activity.
+    <td width="50%">
+      <a href="https://github.com/pablogpena/pablogpena.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pablogpena&repo=pablogpena.github.io&theme=default&hide_border=true" alt="pablogpena.github.io repository">
+      </a>
     </td>
   </tr>
 </table>
